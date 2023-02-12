@@ -1,5 +1,5 @@
-// make it no visible on github 
-const cliendId = '24d74d45b71e49c9a4d2ecb2476a3cab';
+
+const cliendId = '';
 const redirectUri = 'http://pushy-wool.surge.sh';
 let accessToken;
 
